@@ -3,7 +3,7 @@ public class Main {
 
         // Persona
         Persona p = new Persona();
-        p.nombre = "Alexandra";
+        p.nombre = "Jimena";
         p.edad = 17;
         p.mostrarInfo();
 
